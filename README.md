@@ -8,7 +8,6 @@
 </p>
 
 # 💫 About Me:
-## 🚀 About Me<br><br>## 🚀 About Me
 
 - IT professional with experience in **IT Operations, Database Administration, and Observability Engineering**
 - Hands-on experience in **L1/L2 support, AutoSys monitoring, database troubleshooting, and Major Incident Management**
