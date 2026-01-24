@@ -8,7 +8,17 @@
 </p>
 
 # 💫 About Me:
-## 🚀 About Me<br><br>- 💼 IT professional with experience across **IT Operations, Database Administration, and Observability Engineering** in enterprise environments<br>- 🛠️ Hands-on experience in **L1/L2 support, AutoSys job monitoring, database troubleshooting, and Major Incident Management**<br>- 🗄️ Worked as a **Microsoft SQL Server DBA**, handling **backups, restores, migrations, patching, and Always On (AG) failovers**<br>- 📈 Currently working as an **Observability Engineer**, building and managing monitoring solutions using **New Relic, Terraform, GitHub, and PowerShell**<br>- ⚙️ Strong experience in **automation and scripting** using **Python and PowerShell** for alerting, monitoring, and operational tasks<br>- 📊 Solid foundation in **data cleaning, data segregation, SQL/MySQL, Excel reporting, and client-facing dashboards**<br>- 🤖 Built **machine learning and deep learning models**, including a **CNN-based image segregation project**<br>- 🎯 Actively transitioning into the **Data Science domain**, with hands-on skills in **Python, SQL, Power BI, Tableau, Machine Learning, and Deep Learning**<br>
+## 🚀 About Me<br><br>## 🚀 About Me
+
+- IT professional with experience in **IT Operations, Database Administration, and Observability Engineering**
+- Hands-on experience in **L1/L2 support, AutoSys monitoring, database troubleshooting, and Major Incident Management**
+- Worked as a **Microsoft SQL Server DBA** handling backups, restores, migrations, patching, and **Always On (AG)** failovers
+- Currently working as an **Observability Engineer** using **New Relic, Terraform, GitHub, and PowerShell**
+- Strong experience in **automation and scripting** using **Python and PowerShell**
+- Solid foundation in **data cleaning, SQL/MySQL, Excel reporting, and client dashboards**
+- Built **machine learning and deep learning models**, including a **CNN-based image segregation project**
+- Actively transitioning into **Data Engineering / Data Science** roles
+<br>
 
 
 # 💻 Tech Stack:
