@@ -13,7 +13,7 @@
 - Hands-on experience in **L1/L2 support, AutoSys monitoring, database troubleshooting, and Major Incident Management**
 - Worked as a **Microsoft SQL Server DBA** handling backups, restores, migrations, patching, and **Always On (AG)** failovers
 - Currently working as an **Observability Engineer** using **New Relic, Terraform, GitHub, and PowerShell**
-- Good experience in **automation and scripting** using **Python and PowerShell**
+- Hands-on experience in **automation and scripting** using **Python and PowerShell**
 - Solid foundation in **data cleaning, SQL/MySQL, Excel reporting, and client dashboards**
 - Built **machine learning and deep learning models**, including a **CNN-based image segregation project**
 - Actively transitioning into **Data Engineering / Data Science** roles
