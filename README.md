@@ -28,8 +28,22 @@ Site Reliability / Observability Engineer with 4+ years of experience in product
 <br>
 
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,linux,docker,terraform,git,mysql,prometheus,bash)](https://skillicons.dev)
+### 🧠 Languages & Scripting
+[![My Skills](https://skillicons.dev/icons?i=python,bash)](https://skillicons.dev)
+Python, Bash, PowerShell
+
+### ⚙️ SRE & Monitoring Tools
+Monitoring & Observability: New Relic, Prometheus, Grafana  
+Incident Management: BigPanda  
+Secrets Management: HashiCorp Vault, Keeper  
+
+### ☁️ DevOps & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,terraform,git)](https://skillicons.dev)
+Linux, Docker, Terraform, Git
+
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+Microsoft SQL Server, MySQL
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pawanpatnaikuni&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
