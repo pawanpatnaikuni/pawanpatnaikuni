@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Pawan Kumar</h1>
-<h3 align="center">Aspiring Data Engineer | Automation | Databases & Analytics</h3>
+<h3 align="center">Site Reliability Engineer | Observability | Automation | Linux | Monitoring & Incident Management</h3>
 
 <p align="center">
   <a href="https://github.com/pawanpatnaikuni">GitHub</a> •
