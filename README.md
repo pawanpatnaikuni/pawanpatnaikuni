@@ -7,24 +7,20 @@
   <a href="mailto:yourmail@gmail.com">Email</a>
 </p>
 
-# 💫 About Me:
-
 ## 👨‍💻 About Me
 
-Site Reliability / Observability Engineer with 4+ years of experience in production systems, infrastructure monitoring, and incident management.
+Site Reliability / Observability Engineer with 4+ years of experience in monitoring production systems, managing incidents, and improving system reliability across infrastructure and applications.
 
-🔧 Skilled in:
-- Monitoring & Alerting (New Relic, Prometheus)
-- Linux & System Troubleshooting
-- Automation (Python, PowerShell)
+ Skilled in:
+- Monitoring & Observability (New Relic, Prometheus, Grafana)
+- Infrastructure & System Troubleshooting (Linux, Windows)
+- Automation (Python, PowerShell, Terraform)
+- CI/CD & Cloud (AWS basics)
 - SQL & Database Operations
 
-⚡ Focused on:
-- Automating operational tasks
-- Improving system reliability
-- Building monitoring and alerting solutions
+-Focused on automating operations, improving reliability, and building scalable monitoring solutions.
 
-🚀 Currently exploring cloud and modern SRE practices
+-Experienced in designing synthetic monitoring solutions (API, browser, ICMP), defining effective alerting strategies, and building dashboards for real-time visibility into system health, performance, and availability.
 <br>
 ## ⚙️ Tech Stack
 
