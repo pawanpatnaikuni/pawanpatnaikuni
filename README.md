@@ -9,14 +9,22 @@
 
 # 💫 About Me:
 
-- IT professional with experience in **IT Operations, Database Administration, and Observability Engineering**
-- Hands-on experience in **L1/L2 support, AutoSys monitoring, database troubleshooting, and Major Incident Management**
-- Worked as a **Microsoft SQL Server DBA** handling backups, restores, migrations, patching, and **Always On (AG)** failovers
-- Currently working as an **Observability Engineer** using **New Relic, Terraform, GitHub, and PowerShell**
-- Hands-on experience in **automation and scripting** using **Python and PowerShell**
-- Solid foundation in **data cleaning, SQL/MySQL, Excel reporting, and client dashboards**
-- Built **machine learning and deep learning models**, including a **CNN-based image segregation project**
-- Actively transitioning into **Data Engineering / Data Science** roles
+## 👨‍💻 About Me
+
+Site Reliability / Observability Engineer with 4+ years of experience in production systems, infrastructure monitoring, and incident management.
+
+🔧 Skilled in:
+- Monitoring & Alerting (New Relic, Prometheus)
+- Linux & System Troubleshooting
+- Automation (Python, PowerShell)
+- SQL & Database Operations
+
+⚡ Focused on:
+- Automating operational tasks
+- Improving system reliability
+- Building monitoring and alerting solutions
+
+🚀 Currently exploring cloud and modern SRE practices
 <br>
 
 
