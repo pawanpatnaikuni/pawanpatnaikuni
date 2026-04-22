@@ -15,7 +15,7 @@ Site Reliability / Observability Engineer with 4+ years of experience in monitor
 - Monitoring & Observability (New Relic, Prometheus, Grafana)
 - Infrastructure & System Troubleshooting (Linux, Windows)
 - Automation (Python, PowerShell, Terraform)
-- CI/CD & Cloud (AWS basics)
+- CI/CD & Cloud
 - SQL & Database Operations
 
 -Focused on automating operations, improving reliability, and building scalable monitoring solutions.
