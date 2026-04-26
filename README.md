@@ -37,7 +37,7 @@ Python • Bash • PowerShell
 New Relic • Prometheus • Grafana  
 
 **Incident Management:**  
-BigPanda  
+BigPanda, ServiceNow  
 
 **Secrets Management:**  
 HashiCorp Vault • Keeper  
